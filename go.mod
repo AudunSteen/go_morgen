@@ -1,4 +1,4 @@
-module gomorgen
+module github.com/AudunSteen/go_morgen
 
 go 1.17
 
